@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Jadual Guru Ganti - SK St Patrick, Mukah",
+  "description": "Sistem pengurusan dan penjanaan automatik jadual guru ganti (MMI) dengan semakan kekosongan jadual waktu, notifikasi pantas, cetakan PDF, dan rekod bulanan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
